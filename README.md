@@ -17,7 +17,7 @@ This project presents Exploratory Data Analysis (EDA) performed on the Titanic d
 ## 📂 Dataset
 
 - Dataset: Titanic dataset (commonly used in data science)
-- Source: [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data) or similar
+  
   
 
 ## 🛠 Tools & Libraries Used
