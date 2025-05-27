@@ -1,9 +1,10 @@
 # eda-titanic-analysis
 Exploratory Data Analysis (EDA) on Titanic Dataset
+
+
 # 🧪 Exploratory Data Analysis (EDA) on Titanic Dataset
 
 This project presents Exploratory Data Analysis (EDA) performed on the Titanic dataset using Python. The analysis focuses on understanding key patterns and trends in the data through summary statistics and data visualizations.
-
 
 
 ## 📌 Objective
@@ -17,8 +18,7 @@ This project presents Exploratory Data Analysis (EDA) performed on the Titanic d
 ## 📂 Dataset
 
 - Dataset: Titanic dataset (commonly used in data science)
-  
-  
+   
 
 ## 🛠 Tools & Libraries Used
 
